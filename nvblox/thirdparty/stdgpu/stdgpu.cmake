@@ -4,7 +4,7 @@ FetchContent_Declare(
   SYSTEM
   PREFIX stdgpu
   GIT_REPOSITORY https://github.com/exMachina316/stdgpu.git
-  GIT_TAG        f691e02d8081baef2203fab36866eb7f9708a17d
+  GIT_TAG        86148f80182ef914c2785d855f4a0f65eed6ef00
   UPDATE_COMMAND ""
 )
 

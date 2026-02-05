@@ -15,6 +15,7 @@ limitations under the License.
 */
 #pragma once
 
+#include <array>
 #include <string>
 #include <unordered_map>
 
