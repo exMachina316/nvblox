@@ -3,8 +3,8 @@ FetchContent_Declare(
   ext_stdgpu
   SYSTEM
   PREFIX stdgpu
-  GIT_REPOSITORY https://github.com/stotko/stdgpu.git
-  GIT_TAG        e10f6f3ccc9902d693af4380c3bcd188ec34a2e6
+  GIT_REPOSITORY https://github.com/exMachina316/stdgpu.git
+  GIT_TAG        f691e02d8081baef2203fab36866eb7f9708a17d
   UPDATE_COMMAND ""
 )
 
